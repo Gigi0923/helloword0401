@@ -1,0 +1,28 @@
+2018-04-11 11:03:17,253 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-11 11:03:17,253 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-11 11:03:17,254 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-11 11:03:17,254 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-11 16:04:53,661 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 0
+2018-04-11 16:04:53,661 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 0
+2018-04-11 16:04:53,662 - usercenter-usercenter.py[line:93]-INFO - Gi8 not existing
+2018-04-11 16:04:53,662 - usercenter-usercenter.py[line:93]-INFO - Gi8 not existing
+2018-04-11 16:04:56,834 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-11 16:04:56,834 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-11 16:04:57,263 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-11 16:04:57,263 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-11 16:04:58,026 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-11 16:04:58,026 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-11 16:04:58,222 - usercenter-usercenter.py[line:101]-INFO - 1 group can be selected
+2018-04-11 16:04:58,222 - usercenter-usercenter.py[line:101]-INFO - 1 group can be selected
+2018-04-11 16:05:03,637 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-11 16:05:03,637 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-11 16:05:03,667 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-11 16:05:03,667 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-11 16:05:03,720 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-11 16:05:03,720 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-11 16:05:33,281 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-11 16:05:33,281 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-11 16:07:33,266 - usercenter-usercenter.py[line:69]-INFO - No Data displayed in contact table
+2018-04-11 16:07:33,266 - usercenter-usercenter.py[line:69]-INFO - No Data displayed in contact table
+2018-04-11 16:08:10,884 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-11 16:08:10,884 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted

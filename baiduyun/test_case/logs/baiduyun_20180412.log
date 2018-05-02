@@ -1,0 +1,66 @@
+2018-04-12 10:54:41,510 - BasePage-page.py[line:43]-ERROR - <overview_page.Overviewpage object at 0x000000000316DFD0> page not found ('xpath', "//div/a[@class='introjs-button introjs-nextbutton']") element
+2018-04-12 10:57:05,504 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 0
+2018-04-12 10:57:05,504 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 0
+2018-04-12 10:57:05,505 - usercenter-usercenter.py[line:93]-INFO - Gi8 not existing
+2018-04-12 10:57:05,505 - usercenter-usercenter.py[line:93]-INFO - Gi8 not existing
+2018-04-12 10:57:11,463 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-12 10:57:11,463 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-12 10:57:12,418 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-12 10:57:12,418 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-12 10:57:13,131 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-12 10:57:13,131 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-12 10:57:23,336 - usercenter-usercenter.py[line:101]-INFO - 0 group can be selected
+2018-04-12 10:57:23,336 - usercenter-usercenter.py[line:101]-INFO - 0 group can be selected
+2018-04-12 10:57:23,336 - usercenter-usercenter.py[line:111]-WARNING - gr4 group name not found in list
+2018-04-12 10:57:23,336 - usercenter-usercenter.py[line:111]-WARNING - gr4 group name not found in list
+2018-04-12 10:57:28,619 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-12 10:57:28,619 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-12 10:57:28,646 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-12 10:57:28,646 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-12 10:57:28,697 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-12 10:57:28,697 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-12 10:58:04,167 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 10:58:04,167 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 10:58:04,167 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 10:58:04,167 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 10:59:16,066 - BasePage-page.py[line:43]-ERROR - <overview_page.Overviewpage object at 0x000000000323CAC8> page not found ('id', 'username') element
+2018-04-12 10:59:52,058 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-12 10:59:52,058 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-12 11:08:40,796 - BasePage-page.py[line:43]-ERROR - <overview_page.Overviewpage object at 0x0000000003238E10> page not found ('id', 'username') element
+2018-04-12 11:09:14,916 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 11:09:14,916 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 11:09:14,916 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 11:09:14,916 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 11:10:27,299 - BasePage-page.py[line:43]-ERROR - <overview_page.Overviewpage object at 0x000000000331E550> page not found ('id', 'username') element
+2018-04-12 11:11:03,588 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-12 11:11:03,588 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-12 11:18:49,864 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 1
+2018-04-12 11:18:49,864 - usercenter-usercenter.py[line:78]-INFO - contact list table row number: 1
+2018-04-12 11:18:49,896 - usercenter-usercenter.py[line:84]-INFO - contact list table column number:6
+2018-04-12 11:18:49,896 - usercenter-usercenter.py[line:84]-INFO - contact list table column number:6
+2018-04-12 11:18:49,948 - usercenter-usercenter.py[line:87]-INFO - contact Gi8 existed in contact list
+2018-04-12 11:18:49,948 - usercenter-usercenter.py[line:87]-INFO - contact Gi8 existed in contact list
+2018-04-12 11:18:53,645 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-12 11:18:53,645 - usercenter-usercenter.py[line:44]-INFO - click 'create contact' button
+2018-04-12 11:18:54,084 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-12 11:18:54,084 - usercenter-usercenter.py[line:35]-INFO - input contact name
+2018-04-12 11:18:54,791 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-12 11:18:54,791 - usercenter-usercenter.py[line:40]-INFO - input contact phone
+2018-04-12 11:19:05,003 - usercenter-usercenter.py[line:101]-INFO - 0 group can be selected
+2018-04-12 11:19:05,003 - usercenter-usercenter.py[line:101]-INFO - 0 group can be selected
+2018-04-12 11:19:05,004 - usercenter-usercenter.py[line:111]-WARNING - gr4 group name not found in list
+2018-04-12 11:19:05,004 - usercenter-usercenter.py[line:111]-WARNING - gr4 group name not found in list
+2018-04-12 11:19:10,287 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-12 11:19:10,287 - usercenter-usercenter.py[line:116]-INFO - contact list table row number: 1
+2018-04-12 11:19:10,316 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-12 11:19:10,316 - usercenter-usercenter.py[line:120]-INFO - contact list table column number:6
+2018-04-12 11:19:10,365 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-12 11:19:10,365 - usercenter-usercenter.py[line:123]-INFO - contact Gi8 added successfuly
+2018-04-12 11:19:46,542 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 11:19:46,542 - usercenter-usercenter.py[line:185]-INFO - Button 'delete group' is disabled
+2018-04-12 11:19:46,543 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 11:19:46,543 - usercenter-usercenter.py[line:187]-INFO - No Data displayed in group table
+2018-04-12 11:22:00,868 - usercenter-usercenter.py[line:69]-INFO - No Data displayed in contact table
+2018-04-12 11:22:00,868 - usercenter-usercenter.py[line:69]-INFO - No Data displayed in contact table
+2018-04-12 11:22:41,503 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
+2018-04-12 11:22:41,503 - usercenter-usercenter.py[line:196]-INFO - No Data displayed in group table, group has been deleted
