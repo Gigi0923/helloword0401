@@ -14,8 +14,8 @@ class MyTest(unittest.TestCase):
 		self.username="15900443703"
 		self.password="zhuqiuge23@"
 		self.login_url="https://login.bce.baidu.com/"
-		self.newprovidename="gr4"
-		self.newcontactname="Gi8"
+		self.newprovidename="gr5"
+		self.newcontactname="Gi9"
 		self.newcontactphone="15900443703"
 		self.admin_username=""
 
